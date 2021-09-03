@@ -1,3 +1,3 @@
 # Basic-Shell
 
-A simple shell implementation.
+A simple version shell implementation.
